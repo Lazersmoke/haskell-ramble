@@ -1,0 +1,2 @@
+ghc --make -Wall -o AD ad.hs
+rm *.hi *.o
